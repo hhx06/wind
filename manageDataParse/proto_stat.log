@@ -1,0 +1,300 @@
+[2024-04-27 15:02:01.943]	INFO	=========================================总体最热 top 100===========CostTime[ 13ms ] MsgCount[ 2 ] userCount[ 1 ]
+[2024-04-27 15:02:01.944]	INFO	hot	        13ms	 100%	         6ms	         2	MSG_C2S_Flush
+[2024-04-27 15:02:01.944]	INFO	Total	        13ms	 100%	         0ms	         2	TOTAL
+[2024-04-27 15:02:01.944]	INFO	=========================================平均最慢 top 100===========CostTime[ 13ms ] MsgCount[ 2 ] userCount[ 1 ]
+[2024-04-27 15:02:01.944]	INFO	slow	        13ms	 100%	         6ms	         2	MSG_C2S_Flush
+[2024-04-27 15:02:01.944]	INFO	Total	        13ms	 100%	         0ms	         2	TOTAL
+[2024-04-27 15:02:01.944]	INFO	=========================================次数最多 top 100===========CostTime[ 13ms ] MsgCount[ 2 ] userCount[ 1 ]
+[2024-04-27 15:02:01.944]	INFO	count	        13ms	 100%	         6ms	         2	MSG_C2S_Flush
+[2024-04-27 15:02:01.944]	INFO	Total	        13ms	 100%	         0ms	         2	TOTAL
+[2024-04-27 15:02:31.944]	INFO	=========================================总体最热 top 100===========CostTime[ 19ms ] MsgCount[ 5 ] userCount[ 3 ]
+[2024-04-27 15:02:31.944]	INFO	hot	        18ms	  94%	         4ms	         4	MSG_C2S_Flush
+[2024-04-27 15:02:31.944]	INFO	hot	         1ms	   5%	         1ms	         1	MSG_C2S_SevenAct_AwardQuest
+[2024-04-27 15:02:31.944]	INFO	Total	        19ms	 100%	         0ms	         5	TOTAL
+[2024-04-27 15:02:31.944]	INFO	=========================================平均最慢 top 100===========CostTime[ 19ms ] MsgCount[ 5 ] userCount[ 3 ]
+[2024-04-27 15:02:31.944]	INFO	slow	        18ms	  94%	         4ms	         4	MSG_C2S_Flush
+[2024-04-27 15:02:31.944]	INFO	slow	         1ms	   5%	         1ms	         1	MSG_C2S_SevenAct_AwardQuest
+[2024-04-27 15:02:31.944]	INFO	Total	        19ms	 100%	         0ms	         5	TOTAL
+[2024-04-27 15:02:31.944]	INFO	=========================================次数最多 top 100===========CostTime[ 19ms ] MsgCount[ 5 ] userCount[ 3 ]
+[2024-04-27 15:02:31.944]	INFO	count	        18ms	  94%	         4ms	         4	MSG_C2S_Flush
+[2024-04-27 15:02:31.944]	INFO	count	         1ms	   5%	         1ms	         1	MSG_C2S_SevenAct_AwardQuest
+[2024-04-27 15:02:31.944]	INFO	Total	        19ms	 100%	         0ms	         5	TOTAL
+[2024-04-27 15:03:01.945]	INFO	=========================================总体最热 top 100===========CostTime[ 2ms ] MsgCount[ 2 ] userCount[ 4 ]
+[2024-04-27 15:03:01.945]	INFO	hot	         2ms	 100%	         1ms	         2	MSG_C2S_HangUp_ObtainAwards
+[2024-04-27 15:03:01.945]	INFO	Total	         2ms	 100%	         0ms	         2	TOTAL
+[2024-04-27 15:03:01.945]	INFO	=========================================平均最慢 top 100===========CostTime[ 2ms ] MsgCount[ 2 ] userCount[ 4 ]
+[2024-04-27 15:03:01.945]	INFO	slow	         2ms	 100%	         1ms	         2	MSG_C2S_HangUp_ObtainAwards
+[2024-04-27 15:03:01.945]	INFO	Total	         2ms	 100%	         0ms	         2	TOTAL
+[2024-04-27 15:03:01.945]	INFO	=========================================次数最多 top 100===========CostTime[ 2ms ] MsgCount[ 2 ] userCount[ 4 ]
+[2024-04-27 15:03:01.945]	INFO	count	         2ms	 100%	         1ms	         2	MSG_C2S_HangUp_ObtainAwards
+[2024-04-27 15:03:01.945]	INFO	Total	         2ms	 100%	         0ms	         2	TOTAL
+[2024-04-27 15:04:01.944]	INFO	=========================================总体最热 top 100===========CostTime[ 89ms ] MsgCount[ 19 ] userCount[ 4 ]
+[2024-04-27 15:04:01.944]	INFO	hot	        71ms	  79%	         4ms	        15	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:04:01.945]	INFO	hot	        13ms	  14%	         6ms	         2	MSG_C2S_Flush
+[2024-04-27 15:04:01.945]	INFO	hot	         4ms	   4%	         4ms	         1	MSG_C2S_Equipment_Wear
+[2024-04-27 15:04:01.945]	INFO	hot	         1ms	   1%	         1ms	         1	MSG_C2S_Equipment_Sale
+[2024-04-27 15:04:01.945]	INFO	Total	        89ms	 100%	         0ms	        19	TOTAL
+[2024-04-27 15:04:01.945]	INFO	=========================================平均最慢 top 100===========CostTime[ 89ms ] MsgCount[ 19 ] userCount[ 4 ]
+[2024-04-27 15:04:01.945]	INFO	slow	        13ms	  14%	         6ms	         2	MSG_C2S_Flush
+[2024-04-27 15:04:01.945]	INFO	slow	        71ms	  79%	         4ms	        15	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:04:01.945]	INFO	slow	         4ms	   4%	         4ms	         1	MSG_C2S_Equipment_Wear
+[2024-04-27 15:04:01.945]	INFO	slow	         1ms	   1%	         1ms	         1	MSG_C2S_Equipment_Sale
+[2024-04-27 15:04:01.945]	INFO	Total	        89ms	 100%	         0ms	        19	TOTAL
+[2024-04-27 15:04:01.945]	INFO	=========================================次数最多 top 100===========CostTime[ 89ms ] MsgCount[ 19 ] userCount[ 4 ]
+[2024-04-27 15:04:01.945]	INFO	count	        71ms	  79%	         4ms	        15	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:04:01.945]	INFO	count	        13ms	  14%	         6ms	         2	MSG_C2S_Flush
+[2024-04-27 15:04:01.945]	INFO	count	         4ms	   4%	         4ms	         1	MSG_C2S_Equipment_Wear
+[2024-04-27 15:04:01.945]	INFO	count	         1ms	   1%	         1ms	         1	MSG_C2S_Equipment_Sale
+[2024-04-27 15:04:01.945]	INFO	Total	        89ms	 100%	         0ms	        19	TOTAL
+[2024-04-27 15:04:31.944]	INFO	=========================================总体最热 top 100===========CostTime[ 162ms ] MsgCount[ 42 ] userCount[ 4 ]
+[2024-04-27 15:04:31.944]	INFO	hot	       137ms	  84%	         4ms	        28	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:04:31.944]	INFO	hot	        13ms	   8%	         6ms	         2	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-27 15:04:31.944]	INFO	hot	        11ms	   6%	         1ms	        11	MSG_C2S_Equipment_Sale
+[2024-04-27 15:04:31.944]	INFO	hot	         1ms	   0%	         1ms	         1	MSG_C2S_CheckBattleResult
+[2024-04-27 15:04:31.944]	INFO	Total	       162ms	 100%	         0ms	        42	TOTAL
+[2024-04-27 15:04:31.944]	INFO	=========================================平均最慢 top 100===========CostTime[ 162ms ] MsgCount[ 42 ] userCount[ 4 ]
+[2024-04-27 15:04:31.944]	INFO	slow	        13ms	   8%	         6ms	         2	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-27 15:04:31.944]	INFO	slow	       137ms	  84%	         4ms	        28	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:04:31.944]	INFO	slow	        11ms	   6%	         1ms	        11	MSG_C2S_Equipment_Sale
+[2024-04-27 15:04:31.944]	INFO	slow	         1ms	   0%	         1ms	         1	MSG_C2S_CheckBattleResult
+[2024-04-27 15:04:31.945]	INFO	Total	       162ms	 100%	         0ms	        42	TOTAL
+[2024-04-27 15:04:31.945]	INFO	=========================================次数最多 top 100===========CostTime[ 162ms ] MsgCount[ 42 ] userCount[ 4 ]
+[2024-04-27 15:04:31.945]	INFO	count	       137ms	  84%	         4ms	        28	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:04:31.945]	INFO	count	        11ms	   6%	         1ms	        11	MSG_C2S_Equipment_Sale
+[2024-04-27 15:04:31.945]	INFO	count	        13ms	   8%	         6ms	         2	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-27 15:04:31.945]	INFO	count	         1ms	   0%	         1ms	         1	MSG_C2S_CheckBattleResult
+[2024-04-27 15:04:31.945]	INFO	Total	       162ms	 100%	         0ms	        42	TOTAL
+[2024-04-27 15:05:01.944]	INFO	=========================================总体最热 top 100===========CostTime[ 138ms ] MsgCount[ 31 ] userCount[ 4 ]
+[2024-04-27 15:05:01.944]	INFO	hot	       122ms	  88%	         4ms	        27	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:05:01.944]	INFO	hot	         8ms	   5%	         4ms	         2	MSG_C2S_Back_ActiveBook
+[2024-04-27 15:05:01.944]	INFO	hot	         5ms	   3%	         5ms	         1	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-27 15:05:01.944]	INFO	hot	         3ms	   2%	         3ms	         1	MSG_C2S_Flush
+[2024-04-27 15:05:01.944]	INFO	Total	       138ms	 100%	         0ms	        31	TOTAL
+[2024-04-27 15:05:01.945]	INFO	=========================================平均最慢 top 100===========CostTime[ 138ms ] MsgCount[ 31 ] userCount[ 4 ]
+[2024-04-27 15:05:01.945]	INFO	slow	         5ms	   3%	         5ms	         1	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-27 15:05:01.945]	INFO	slow	       122ms	  88%	         4ms	        27	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:05:01.945]	INFO	slow	         8ms	   5%	         4ms	         2	MSG_C2S_Back_ActiveBook
+[2024-04-27 15:05:01.945]	INFO	slow	         3ms	   2%	         3ms	         1	MSG_C2S_Flush
+[2024-04-27 15:05:01.945]	INFO	Total	       138ms	 100%	         0ms	        31	TOTAL
+[2024-04-27 15:05:01.945]	INFO	=========================================次数最多 top 100===========CostTime[ 138ms ] MsgCount[ 31 ] userCount[ 4 ]
+[2024-04-27 15:05:01.945]	INFO	count	       122ms	  88%	         4ms	        27	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:05:01.945]	INFO	count	         8ms	   5%	         4ms	         2	MSG_C2S_Back_ActiveBook
+[2024-04-27 15:05:01.945]	INFO	count	         5ms	   3%	         5ms	         1	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-27 15:05:01.945]	INFO	count	         3ms	   2%	         3ms	         1	MSG_C2S_Flush
+[2024-04-27 15:05:01.945]	INFO	Total	       138ms	 100%	         0ms	        31	TOTAL
+[2024-04-27 15:05:31.944]	INFO	=========================================总体最热 top 100===========CostTime[ 121ms ] MsgCount[ 30 ] userCount[ 3 ]
+[2024-04-27 15:05:31.944]	INFO	hot	       113ms	  93%	         5ms	        22	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:05:31.944]	INFO	hot	         8ms	   6%	         1ms	         8	MSG_C2S_Equipment_Sale
+[2024-04-27 15:05:31.944]	INFO	Total	       121ms	 100%	         0ms	        30	TOTAL
+[2024-04-27 15:05:31.944]	INFO	=========================================平均最慢 top 100===========CostTime[ 121ms ] MsgCount[ 30 ] userCount[ 3 ]
+[2024-04-27 15:05:31.944]	INFO	slow	       113ms	  93%	         5ms	        22	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:05:31.944]	INFO	slow	         8ms	   6%	         1ms	         8	MSG_C2S_Equipment_Sale
+[2024-04-27 15:05:31.944]	INFO	Total	       121ms	 100%	         0ms	        30	TOTAL
+[2024-04-27 15:05:31.944]	INFO	=========================================次数最多 top 100===========CostTime[ 121ms ] MsgCount[ 30 ] userCount[ 3 ]
+[2024-04-27 15:05:31.944]	INFO	count	       113ms	  93%	         5ms	        22	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:05:31.944]	INFO	count	         8ms	   6%	         1ms	         8	MSG_C2S_Equipment_Sale
+[2024-04-27 15:05:31.944]	INFO	Total	       121ms	 100%	         0ms	        30	TOTAL
+[2024-04-27 15:06:01.944]	INFO	=========================================总体最热 top 100===========CostTime[ 172ms ] MsgCount[ 48 ] userCount[ 3 ]
+[2024-04-27 15:06:01.944]	INFO	hot	       160ms	  93%	         3ms	        41	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:06:01.944]	INFO	hot	         7ms	   4%	         3ms	         2	MSG_C2S_Equipment_Wear
+[2024-04-27 15:06:01.944]	INFO	hot	         5ms	   2%	         1ms	         5	MSG_C2S_Equipment_Sale
+[2024-04-27 15:06:01.944]	INFO	Total	       172ms	 100%	         0ms	        48	TOTAL
+[2024-04-27 15:06:01.944]	INFO	=========================================平均最慢 top 100===========CostTime[ 172ms ] MsgCount[ 48 ] userCount[ 3 ]
+[2024-04-27 15:06:01.944]	INFO	slow	       160ms	  93%	         3ms	        41	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:06:01.944]	INFO	slow	         7ms	   4%	         3ms	         2	MSG_C2S_Equipment_Wear
+[2024-04-27 15:06:01.944]	INFO	slow	         5ms	   2%	         1ms	         5	MSG_C2S_Equipment_Sale
+[2024-04-27 15:06:01.944]	INFO	Total	       172ms	 100%	         0ms	        48	TOTAL
+[2024-04-27 15:06:01.944]	INFO	=========================================次数最多 top 100===========CostTime[ 172ms ] MsgCount[ 48 ] userCount[ 3 ]
+[2024-04-27 15:06:01.944]	INFO	count	       160ms	  93%	         3ms	        41	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:06:01.944]	INFO	count	         5ms	   2%	         1ms	         5	MSG_C2S_Equipment_Sale
+[2024-04-27 15:06:01.944]	INFO	count	         7ms	   4%	         3ms	         2	MSG_C2S_Equipment_Wear
+[2024-04-27 15:06:01.944]	INFO	Total	       172ms	 100%	         0ms	        48	TOTAL
+[2024-04-27 15:06:31.945]	INFO	=========================================总体最热 top 100===========CostTime[ 14ms ] MsgCount[ 4 ] userCount[ 3 ]
+[2024-04-27 15:06:31.945]	INFO	hot	        13ms	  92%	         4ms	         3	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:06:31.945]	INFO	hot	         1ms	   7%	         1ms	         1	MSG_C2S_Equipment_Sale
+[2024-04-27 15:06:31.945]	INFO	Total	        14ms	 100%	         0ms	         4	TOTAL
+[2024-04-27 15:06:31.945]	INFO	=========================================平均最慢 top 100===========CostTime[ 14ms ] MsgCount[ 4 ] userCount[ 3 ]
+[2024-04-27 15:06:31.945]	INFO	slow	        13ms	  92%	         4ms	         3	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:06:31.945]	INFO	slow	         1ms	   7%	         1ms	         1	MSG_C2S_Equipment_Sale
+[2024-04-27 15:06:31.945]	INFO	Total	        14ms	 100%	         0ms	         4	TOTAL
+[2024-04-27 15:06:31.945]	INFO	=========================================次数最多 top 100===========CostTime[ 14ms ] MsgCount[ 4 ] userCount[ 3 ]
+[2024-04-27 15:06:31.945]	INFO	count	        13ms	  92%	         4ms	         3	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:06:31.945]	INFO	count	         1ms	   7%	         1ms	         1	MSG_C2S_Equipment_Sale
+[2024-04-27 15:06:31.945]	INFO	Total	        14ms	 100%	         0ms	         4	TOTAL
+[2024-04-27 15:07:01.944]	INFO	=========================================总体最热 top 100===========CostTime[ 5ms ] MsgCount[ 2 ] userCount[ 4 ]
+[2024-04-27 15:07:01.944]	INFO	hot	         5ms	 100%	         2ms	         2	MSG_C2S_Flush
+[2024-04-27 15:07:01.945]	INFO	Total	         5ms	 100%	         0ms	         2	TOTAL
+[2024-04-27 15:07:01.945]	INFO	=========================================平均最慢 top 100===========CostTime[ 5ms ] MsgCount[ 2 ] userCount[ 4 ]
+[2024-04-27 15:07:01.945]	INFO	slow	         5ms	 100%	         2ms	         2	MSG_C2S_Flush
+[2024-04-27 15:07:01.945]	INFO	Total	         5ms	 100%	         0ms	         2	TOTAL
+[2024-04-27 15:07:01.945]	INFO	=========================================次数最多 top 100===========CostTime[ 5ms ] MsgCount[ 2 ] userCount[ 4 ]
+[2024-04-27 15:07:01.945]	INFO	count	         5ms	 100%	         2ms	         2	MSG_C2S_Flush
+[2024-04-27 15:07:01.945]	INFO	Total	         5ms	 100%	         0ms	         2	TOTAL
+[2024-04-27 15:08:01.945]	INFO	=========================================总体最热 top 100===========CostTime[ 19ms ] MsgCount[ 5 ] userCount[ 6 ]
+[2024-04-27 15:08:01.945]	INFO	hot	        18ms	  94%	         4ms	         4	MSG_C2S_Flush
+[2024-04-27 15:08:01.945]	INFO	hot	         1ms	   5%	         1ms	         1	MSG_C2S_GM_Cmd
+[2024-04-27 15:08:01.945]	INFO	Total	        19ms	 100%	         0ms	         5	TOTAL
+[2024-04-27 15:08:01.945]	INFO	=========================================平均最慢 top 100===========CostTime[ 19ms ] MsgCount[ 5 ] userCount[ 6 ]
+[2024-04-27 15:08:01.945]	INFO	slow	        18ms	  94%	         4ms	         4	MSG_C2S_Flush
+[2024-04-27 15:08:01.945]	INFO	slow	         1ms	   5%	         1ms	         1	MSG_C2S_GM_Cmd
+[2024-04-27 15:08:01.945]	INFO	Total	        19ms	 100%	         0ms	         5	TOTAL
+[2024-04-27 15:08:01.945]	INFO	=========================================次数最多 top 100===========CostTime[ 19ms ] MsgCount[ 5 ] userCount[ 6 ]
+[2024-04-27 15:08:01.945]	INFO	count	        18ms	  94%	         4ms	         4	MSG_C2S_Flush
+[2024-04-27 15:08:01.945]	INFO	count	         1ms	   5%	         1ms	         1	MSG_C2S_GM_Cmd
+[2024-04-27 15:08:01.945]	INFO	Total	        19ms	 100%	         0ms	         5	TOTAL
+[2024-04-27 15:08:31.944]	INFO	=========================================总体最热 top 100===========CostTime[ 6ms ] MsgCount[ 4 ] userCount[ 6 ]
+[2024-04-27 15:08:31.944]	INFO	hot	         4ms	  66%	         2ms	         2	MSG_C2S_Recruit_Roll
+[2024-04-27 15:08:31.944]	INFO	hot	         1ms	  16%	         1ms	         1	MSG_C2S_DailyQuest_AwardQuest
+[2024-04-27 15:08:31.944]	INFO	hot	         1ms	  16%	         1ms	         1	MSG_C2S_BattlePass_AwardLv
+[2024-04-27 15:08:31.944]	INFO	Total	         6ms	 100%	         0ms	         4	TOTAL
+[2024-04-27 15:08:31.944]	INFO	=========================================平均最慢 top 100===========CostTime[ 6ms ] MsgCount[ 4 ] userCount[ 6 ]
+[2024-04-27 15:08:31.944]	INFO	slow	         4ms	  66%	         2ms	         2	MSG_C2S_Recruit_Roll
+[2024-04-27 15:08:31.944]	INFO	slow	         1ms	  16%	         1ms	         1	MSG_C2S_DailyQuest_AwardQuest
+[2024-04-27 15:08:31.944]	INFO	slow	         1ms	  16%	         1ms	         1	MSG_C2S_BattlePass_AwardLv
+[2024-04-27 15:08:31.944]	INFO	Total	         6ms	 100%	         0ms	         4	TOTAL
+[2024-04-27 15:08:31.944]	INFO	=========================================次数最多 top 100===========CostTime[ 6ms ] MsgCount[ 4 ] userCount[ 6 ]
+[2024-04-27 15:08:31.944]	INFO	count	         4ms	  66%	         2ms	         2	MSG_C2S_Recruit_Roll
+[2024-04-27 15:08:31.944]	INFO	count	         1ms	  16%	         1ms	         1	MSG_C2S_DailyQuest_AwardQuest
+[2024-04-27 15:08:31.944]	INFO	count	         1ms	  16%	         1ms	         1	MSG_C2S_BattlePass_AwardLv
+[2024-04-27 15:08:31.944]	INFO	Total	         6ms	 100%	         0ms	         4	TOTAL
+[2024-04-27 15:09:01.945]	INFO	=========================================总体最热 top 100===========CostTime[ 9ms ] MsgCount[ 6 ] userCount[ 6 ]
+[2024-04-27 15:09:01.945]	INFO	hot	         5ms	  55%	         2ms	         2	MSG_C2S_Flush
+[2024-04-27 15:09:01.945]	INFO	hot	         2ms	  22%	         1ms	         2	MSG_C2S_Recruit_Roll
+[2024-04-27 15:09:01.945]	INFO	hot	         1ms	  11%	         1ms	         1	MSG_C2S_Item_Use
+[2024-04-27 15:09:01.945]	INFO	hot	         1ms	  11%	         1ms	         1	MSG_C2S_Recruit_AwardExtra
+[2024-04-27 15:09:01.945]	INFO	Total	         9ms	 100%	         0ms	         6	TOTAL
+[2024-04-27 15:09:01.945]	INFO	=========================================平均最慢 top 100===========CostTime[ 9ms ] MsgCount[ 6 ] userCount[ 6 ]
+[2024-04-27 15:09:01.945]	INFO	slow	         5ms	  55%	         2ms	         2	MSG_C2S_Flush
+[2024-04-27 15:09:01.945]	INFO	slow	         2ms	  22%	         1ms	         2	MSG_C2S_Recruit_Roll
+[2024-04-27 15:09:01.945]	INFO	slow	         1ms	  11%	         1ms	         1	MSG_C2S_Item_Use
+[2024-04-27 15:09:01.945]	INFO	slow	         1ms	  11%	         1ms	         1	MSG_C2S_Recruit_AwardExtra
+[2024-04-27 15:09:01.945]	INFO	Total	         9ms	 100%	         0ms	         6	TOTAL
+[2024-04-27 15:09:01.945]	INFO	=========================================次数最多 top 100===========CostTime[ 9ms ] MsgCount[ 6 ] userCount[ 6 ]
+[2024-04-27 15:09:01.945]	INFO	count	         5ms	  55%	         2ms	         2	MSG_C2S_Flush
+[2024-04-27 15:09:01.945]	INFO	count	         2ms	  22%	         1ms	         2	MSG_C2S_Recruit_Roll
+[2024-04-27 15:09:01.945]	INFO	count	         1ms	  11%	         1ms	         1	MSG_C2S_Item_Use
+[2024-04-27 15:09:01.945]	INFO	count	         1ms	  11%	         1ms	         1	MSG_C2S_Recruit_AwardExtra
+[2024-04-27 15:09:01.945]	INFO	Total	         9ms	 100%	         0ms	         6	TOTAL
+[2024-04-27 15:10:31.944]	INFO	=========================================总体最热 top 100===========CostTime[ 17ms ] MsgCount[ 10 ] userCount[ 6 ]
+[2024-04-27 15:10:31.945]	INFO	hot	        10ms	  58%	         2ms	         5	MSG_C2S_TreasureBox_Open
+[2024-04-27 15:10:31.945]	INFO	hot	         7ms	  41%	         1ms	         5	MSG_C2S_Equipment_Wear
+[2024-04-27 15:10:31.945]	INFO	Total	        17ms	 100%	         0ms	        10	TOTAL
+[2024-04-27 15:10:31.945]	INFO	=========================================平均最慢 top 100===========CostTime[ 17ms ] MsgCount[ 10 ] userCount[ 6 ]
+[2024-04-27 15:10:31.945]	INFO	slow	        10ms	  58%	         2ms	         5	MSG_C2S_TreasureBox_Open
+[2024-04-27 15:10:31.945]	INFO	slow	         7ms	  41%	         1ms	         5	MSG_C2S_Equipment_Wear
+[2024-04-27 15:10:31.945]	INFO	Total	        17ms	 100%	         0ms	        10	TOTAL
+[2024-04-27 15:10:31.945]	INFO	=========================================次数最多 top 100===========CostTime[ 17ms ] MsgCount[ 10 ] userCount[ 6 ]
+[2024-04-27 15:10:31.945]	INFO	count	        10ms	  58%	         2ms	         5	MSG_C2S_TreasureBox_Open
+[2024-04-27 15:10:31.945]	INFO	count	         7ms	  41%	         1ms	         5	MSG_C2S_Equipment_Wear
+[2024-04-27 15:10:31.945]	INFO	Total	        17ms	 100%	         0ms	        10	TOTAL
+[2024-04-27 15:11:01.944]	INFO	=========================================总体最热 top 100===========CostTime[ 19ms ] MsgCount[ 12 ] userCount[ 6 ]
+[2024-04-27 15:11:01.944]	INFO	hot	         9ms	  47%	         1ms	         5	MSG_C2S_TreasureBox_Open
+[2024-04-27 15:11:01.944]	INFO	hot	         7ms	  36%	         1ms	         4	MSG_C2S_Equipment_Wear
+[2024-04-27 15:11:01.944]	INFO	hot	         2ms	  10%	         1ms	         2	MSG_C2S_SevenAct_AwardQuest
+[2024-04-27 15:11:01.944]	INFO	hot	         1ms	   5%	         1ms	         1	MSG_C2S_Equipment_Sale
+[2024-04-27 15:11:01.944]	INFO	Total	        19ms	 100%	         0ms	        12	TOTAL
+[2024-04-27 15:11:01.944]	INFO	=========================================平均最慢 top 100===========CostTime[ 19ms ] MsgCount[ 12 ] userCount[ 6 ]
+[2024-04-27 15:11:01.944]	INFO	slow	         9ms	  47%	         1ms	         5	MSG_C2S_TreasureBox_Open
+[2024-04-27 15:11:01.944]	INFO	slow	         7ms	  36%	         1ms	         4	MSG_C2S_Equipment_Wear
+[2024-04-27 15:11:01.944]	INFO	slow	         2ms	  10%	         1ms	         2	MSG_C2S_SevenAct_AwardQuest
+[2024-04-27 15:11:01.944]	INFO	slow	         1ms	   5%	         1ms	         1	MSG_C2S_Equipment_Sale
+[2024-04-27 15:11:01.944]	INFO	Total	        19ms	 100%	         0ms	        12	TOTAL
+[2024-04-27 15:11:01.944]	INFO	=========================================次数最多 top 100===========CostTime[ 19ms ] MsgCount[ 12 ] userCount[ 6 ]
+[2024-04-27 15:11:01.944]	INFO	count	         9ms	  47%	         1ms	         5	MSG_C2S_TreasureBox_Open
+[2024-04-27 15:11:01.944]	INFO	count	         7ms	  36%	         1ms	         4	MSG_C2S_Equipment_Wear
+[2024-04-27 15:11:01.944]	INFO	count	         2ms	  10%	         1ms	         2	MSG_C2S_SevenAct_AwardQuest
+[2024-04-27 15:11:01.944]	INFO	count	         1ms	   5%	         1ms	         1	MSG_C2S_Equipment_Sale
+[2024-04-27 15:11:01.944]	INFO	Total	        19ms	 100%	         0ms	        12	TOTAL
+[2024-04-27 15:11:31.944]	INFO	=========================================总体最热 top 100===========CostTime[ 86ms ] MsgCount[ 22 ] userCount[ 6 ]
+[2024-04-27 15:11:31.944]	INFO	hot	        59ms	  68%	         5ms	        11	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:11:31.944]	INFO	hot	        11ms	  12%	         5ms	         2	MSG_C2S_Artifact_UpStar
+[2024-04-27 15:11:31.944]	INFO	hot	         9ms	  10%	         1ms	         5	MSG_C2S_Equipment_Sale
+[2024-04-27 15:11:31.944]	INFO	hot	         3ms	   3%	         1ms	         2	MSG_C2S_Item_Use
+[2024-04-27 15:11:31.944]	INFO	hot	         3ms	   3%	         3ms	         1	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-27 15:11:31.944]	INFO	hot	         1ms	   1%	         1ms	         1	MSG_C2S_Back_Refresh
+[2024-04-27 15:11:31.944]	INFO	Total	        86ms	 100%	         0ms	        22	TOTAL
+[2024-04-27 15:11:31.944]	INFO	=========================================平均最慢 top 100===========CostTime[ 86ms ] MsgCount[ 22 ] userCount[ 6 ]
+[2024-04-27 15:11:31.944]	INFO	slow	        59ms	  68%	         5ms	        11	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:11:31.944]	INFO	slow	        11ms	  12%	         5ms	         2	MSG_C2S_Artifact_UpStar
+[2024-04-27 15:11:31.944]	INFO	slow	         3ms	   3%	         3ms	         1	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-27 15:11:31.944]	INFO	slow	         9ms	  10%	         1ms	         5	MSG_C2S_Equipment_Sale
+[2024-04-27 15:11:31.944]	INFO	slow	         3ms	   3%	         1ms	         2	MSG_C2S_Item_Use
+[2024-04-27 15:11:31.944]	INFO	slow	         1ms	   1%	         1ms	         1	MSG_C2S_Back_Refresh
+[2024-04-27 15:11:31.944]	INFO	Total	        86ms	 100%	         0ms	        22	TOTAL
+[2024-04-27 15:11:31.944]	INFO	=========================================次数最多 top 100===========CostTime[ 86ms ] MsgCount[ 22 ] userCount[ 6 ]
+[2024-04-27 15:11:31.944]	INFO	count	        59ms	  68%	         5ms	        11	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:11:31.944]	INFO	count	         9ms	  10%	         1ms	         5	MSG_C2S_Equipment_Sale
+[2024-04-27 15:11:31.944]	INFO	count	        11ms	  12%	         5ms	         2	MSG_C2S_Artifact_UpStar
+[2024-04-27 15:11:31.944]	INFO	count	         3ms	   3%	         1ms	         2	MSG_C2S_Item_Use
+[2024-04-27 15:11:31.944]	INFO	count	         3ms	   3%	         3ms	         1	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-27 15:11:31.944]	INFO	count	         1ms	   1%	         1ms	         1	MSG_C2S_Back_Refresh
+[2024-04-27 15:11:31.944]	INFO	Total	        86ms	 100%	         0ms	        22	TOTAL
+[2024-04-27 15:12:01.944]	INFO	=========================================总体最热 top 100===========CostTime[ 148ms ] MsgCount[ 36 ] userCount[ 6 ]
+[2024-04-27 15:12:01.944]	INFO	hot	       133ms	  89%	         4ms	        27	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:12:01.944]	INFO	hot	         7ms	   4%	         7ms	         1	MSG_C2S_Back_Refresh
+[2024-04-27 15:12:01.944]	INFO	hot	         6ms	   4%	         1ms	         6	MSG_C2S_Equipment_Sale
+[2024-04-27 15:12:01.944]	INFO	hot	         2ms	   1%	         1ms	         2	MSG_C2S_ScoreShop_Buy
+[2024-04-27 15:12:01.944]	INFO	Total	       148ms	 100%	         0ms	        36	TOTAL
+[2024-04-27 15:12:01.944]	INFO	=========================================平均最慢 top 100===========CostTime[ 148ms ] MsgCount[ 36 ] userCount[ 6 ]
+[2024-04-27 15:12:01.944]	INFO	slow	         7ms	   4%	         7ms	         1	MSG_C2S_Back_Refresh
+[2024-04-27 15:12:01.944]	INFO	slow	       133ms	  89%	         4ms	        27	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:12:01.944]	INFO	slow	         6ms	   4%	         1ms	         6	MSG_C2S_Equipment_Sale
+[2024-04-27 15:12:01.944]	INFO	slow	         2ms	   1%	         1ms	         2	MSG_C2S_ScoreShop_Buy
+[2024-04-27 15:12:01.944]	INFO	Total	       148ms	 100%	         0ms	        36	TOTAL
+[2024-04-27 15:12:01.944]	INFO	=========================================次数最多 top 100===========CostTime[ 148ms ] MsgCount[ 36 ] userCount[ 6 ]
+[2024-04-27 15:12:01.944]	INFO	count	       133ms	  89%	         4ms	        27	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:12:01.944]	INFO	count	         6ms	   4%	         1ms	         6	MSG_C2S_Equipment_Sale
+[2024-04-27 15:12:01.944]	INFO	count	         2ms	   1%	         1ms	         2	MSG_C2S_ScoreShop_Buy
+[2024-04-27 15:12:01.944]	INFO	count	         7ms	   4%	         7ms	         1	MSG_C2S_Back_Refresh
+[2024-04-27 15:12:01.944]	INFO	Total	       148ms	 100%	         0ms	        36	TOTAL
+[2024-04-27 15:12:31.944]	INFO	=========================================总体最热 top 100===========CostTime[ 148ms ] MsgCount[ 36 ] userCount[ 6 ]
+[2024-04-27 15:12:31.944]	INFO	hot	       137ms	  92%	         4ms	        28	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:12:31.944]	INFO	hot	        11ms	   7%	         1ms	         8	MSG_C2S_Equipment_Sale
+[2024-04-27 15:12:31.944]	INFO	Total	       148ms	 100%	         0ms	        36	TOTAL
+[2024-04-27 15:12:31.944]	INFO	=========================================平均最慢 top 100===========CostTime[ 148ms ] MsgCount[ 36 ] userCount[ 6 ]
+[2024-04-27 15:12:31.944]	INFO	slow	       137ms	  92%	         4ms	        28	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:12:31.944]	INFO	slow	        11ms	   7%	         1ms	         8	MSG_C2S_Equipment_Sale
+[2024-04-27 15:12:31.944]	INFO	Total	       148ms	 100%	         0ms	        36	TOTAL
+[2024-04-27 15:12:31.944]	INFO	=========================================次数最多 top 100===========CostTime[ 148ms ] MsgCount[ 36 ] userCount[ 6 ]
+[2024-04-27 15:12:31.944]	INFO	count	       137ms	  92%	         4ms	        28	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:12:31.944]	INFO	count	        11ms	   7%	         1ms	         8	MSG_C2S_Equipment_Sale
+[2024-04-27 15:12:31.944]	INFO	Total	       148ms	 100%	         0ms	        36	TOTAL
+[2024-04-27 15:13:01.944]	INFO	=========================================总体最热 top 100===========CostTime[ 4ms ] MsgCount[ 1 ] userCount[ 6 ]
+[2024-04-27 15:13:01.945]	INFO	hot	         4ms	 100%	         4ms	         1	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:13:01.945]	INFO	Total	         4ms	 100%	         0ms	         1	TOTAL
+[2024-04-27 15:13:01.945]	INFO	=========================================平均最慢 top 100===========CostTime[ 4ms ] MsgCount[ 1 ] userCount[ 6 ]
+[2024-04-27 15:13:01.945]	INFO	slow	         4ms	 100%	         4ms	         1	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:13:01.945]	INFO	Total	         4ms	 100%	         0ms	         1	TOTAL
+[2024-04-27 15:13:01.945]	INFO	=========================================次数最多 top 100===========CostTime[ 4ms ] MsgCount[ 1 ] userCount[ 6 ]
+[2024-04-27 15:13:01.945]	INFO	count	         4ms	 100%	         4ms	         1	MSG_C2S_TreasureBox_AutoOpen
+[2024-04-27 15:13:01.945]	INFO	Total	         4ms	 100%	         0ms	         1	TOTAL
+[2024-04-27 15:13:31.944]	INFO	=========================================总体最热 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 6 ]
+[2024-04-27 15:13:31.944]	INFO	hot	         1ms	 100%	         1ms	         1	MSG_C2S_SyncTime
+[2024-04-27 15:13:31.944]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-27 15:13:31.944]	INFO	=========================================平均最慢 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 6 ]
+[2024-04-27 15:13:31.944]	INFO	slow	         1ms	 100%	         1ms	         1	MSG_C2S_SyncTime
+[2024-04-27 15:13:31.944]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-27 15:13:31.944]	INFO	=========================================次数最多 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 6 ]
+[2024-04-27 15:13:31.944]	INFO	count	         1ms	 100%	         1ms	         1	MSG_C2S_SyncTime
+[2024-04-27 15:13:31.944]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-27 15:14:01.944]	INFO	=========================================总体最热 top 100===========CostTime[ 21ms ] MsgCount[ 8 ] userCount[ 6 ]
+[2024-04-27 15:14:01.944]	INFO	hot	        11ms	  52%	         2ms	         4	MSG_C2S_TreasureBox_Open
+[2024-04-27 15:14:01.944]	INFO	hot	        10ms	  47%	         2ms	         4	MSG_C2S_Equipment_Wear
+[2024-04-27 15:14:01.944]	INFO	Total	        21ms	 100%	         0ms	         8	TOTAL
+[2024-04-27 15:14:01.944]	INFO	=========================================平均最慢 top 100===========CostTime[ 21ms ] MsgCount[ 8 ] userCount[ 6 ]
+[2024-04-27 15:14:01.944]	INFO	slow	        11ms	  52%	         2ms	         4	MSG_C2S_TreasureBox_Open
+[2024-04-27 15:14:01.944]	INFO	slow	        10ms	  47%	         2ms	         4	MSG_C2S_Equipment_Wear
+[2024-04-27 15:14:01.944]	INFO	Total	        21ms	 100%	         0ms	         8	TOTAL
+[2024-04-27 15:14:01.944]	INFO	=========================================次数最多 top 100===========CostTime[ 21ms ] MsgCount[ 8 ] userCount[ 6 ]
+[2024-04-27 15:14:01.944]	INFO	count	        11ms	  52%	         2ms	         4	MSG_C2S_TreasureBox_Open
+[2024-04-27 15:14:01.944]	INFO	count	        10ms	  47%	         2ms	         4	MSG_C2S_Equipment_Wear
+[2024-04-27 15:14:01.944]	INFO	Total	        21ms	 100%	         0ms	         8	TOTAL
+[2024-04-27 15:15:01.945]	INFO	=========================================总体最热 top 100===========CostTime[ 5ms ] MsgCount[ 2 ] userCount[ 6 ]
+[2024-04-27 15:15:01.945]	INFO	hot	         5ms	 100%	         2ms	         2	MSG_C2S_GM_Cmd
+[2024-04-27 15:15:01.945]	INFO	Total	         5ms	 100%	         0ms	         2	TOTAL
+[2024-04-27 15:15:01.945]	INFO	=========================================平均最慢 top 100===========CostTime[ 5ms ] MsgCount[ 2 ] userCount[ 6 ]
+[2024-04-27 15:15:01.945]	INFO	slow	         5ms	 100%	         2ms	         2	MSG_C2S_GM_Cmd
+[2024-04-27 15:15:01.945]	INFO	Total	         5ms	 100%	         0ms	         2	TOTAL
+[2024-04-27 15:15:01.945]	INFO	=========================================次数最多 top 100===========CostTime[ 5ms ] MsgCount[ 2 ] userCount[ 6 ]
+[2024-04-27 15:15:01.945]	INFO	count	         5ms	 100%	         2ms	         2	MSG_C2S_GM_Cmd
+[2024-04-27 15:15:01.945]	INFO	Total	         5ms	 100%	         0ms	         2	TOTAL
