@@ -1,0 +1,126 @@
+[2024-04-25 22:02:21.775]	INFO	=========================================总体最热 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 265 ]
+[2024-04-25 22:02:21.775]	INFO	hot	         1ms	 100%	         1ms	         1	MSG_C2S_Arena_ChallengeBegin
+[2024-04-25 22:02:21.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:02:21.775]	INFO	=========================================平均最慢 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 265 ]
+[2024-04-25 22:02:21.775]	INFO	slow	         1ms	 100%	         1ms	         1	MSG_C2S_Arena_ChallengeBegin
+[2024-04-25 22:02:21.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:02:21.775]	INFO	=========================================次数最多 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 265 ]
+[2024-04-25 22:02:21.775]	INFO	count	         1ms	 100%	         1ms	         1	MSG_C2S_Arena_ChallengeBegin
+[2024-04-25 22:02:21.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:05:21.775]	INFO	=========================================总体最热 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 264 ]
+[2024-04-25 22:05:21.775]	INFO	hot	         1ms	 100%	         1ms	         1	MSG_C2S_WorldBoss_ChallengeBegin
+[2024-04-25 22:05:21.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:05:21.775]	INFO	=========================================平均最慢 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 264 ]
+[2024-04-25 22:05:21.775]	INFO	slow	         1ms	 100%	         1ms	         1	MSG_C2S_WorldBoss_ChallengeBegin
+[2024-04-25 22:05:21.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:05:21.775]	INFO	=========================================次数最多 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 264 ]
+[2024-04-25 22:05:21.775]	INFO	count	         1ms	 100%	         1ms	         1	MSG_C2S_WorldBoss_ChallengeBegin
+[2024-04-25 22:05:21.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:14:21.775]	INFO	=========================================总体最热 top 100===========CostTime[ 2ms ] MsgCount[ 1 ] userCount[ 278 ]
+[2024-04-25 22:14:21.775]	INFO	hot	         2ms	 100%	         2ms	         1	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-25 22:14:21.775]	INFO	Total	         2ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:14:21.775]	INFO	=========================================平均最慢 top 100===========CostTime[ 2ms ] MsgCount[ 1 ] userCount[ 278 ]
+[2024-04-25 22:14:21.775]	INFO	slow	         2ms	 100%	         2ms	         1	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-25 22:14:21.775]	INFO	Total	         2ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:14:21.775]	INFO	=========================================次数最多 top 100===========CostTime[ 2ms ] MsgCount[ 1 ] userCount[ 278 ]
+[2024-04-25 22:14:21.775]	INFO	count	         2ms	 100%	         2ms	         1	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-25 22:14:21.775]	INFO	Total	         2ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:21:51.775]	INFO	=========================================总体最热 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 258 ]
+[2024-04-25 22:21:51.775]	INFO	hot	         1ms	 100%	         1ms	         1	MSG_C2S_FlushQuest
+[2024-04-25 22:21:51.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:21:51.775]	INFO	=========================================平均最慢 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 258 ]
+[2024-04-25 22:21:51.775]	INFO	slow	         1ms	 100%	         1ms	         1	MSG_C2S_FlushQuest
+[2024-04-25 22:21:51.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:21:51.775]	INFO	=========================================次数最多 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 258 ]
+[2024-04-25 22:21:51.775]	INFO	count	         1ms	 100%	         1ms	         1	MSG_C2S_FlushQuest
+[2024-04-25 22:21:51.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:29:51.775]	INFO	=========================================总体最热 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 257 ]
+[2024-04-25 22:29:51.775]	INFO	hot	         1ms	 100%	         1ms	         1	MSG_C2S_WorldBoss_ChallengeBegin
+[2024-04-25 22:29:51.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:29:51.775]	INFO	=========================================平均最慢 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 257 ]
+[2024-04-25 22:29:51.775]	INFO	slow	         1ms	 100%	         1ms	         1	MSG_C2S_WorldBoss_ChallengeBegin
+[2024-04-25 22:29:51.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:29:51.775]	INFO	=========================================次数最多 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 257 ]
+[2024-04-25 22:29:51.775]	INFO	count	         1ms	 100%	         1ms	         1	MSG_C2S_WorldBoss_ChallengeBegin
+[2024-04-25 22:29:51.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:30:21.775]	INFO	=========================================总体最热 top 100===========CostTime[ 2ms ] MsgCount[ 1 ] userCount[ 253 ]
+[2024-04-25 22:30:21.775]	INFO	hot	         2ms	 100%	         2ms	         1	MSG_C2S_Equipment_Sale
+[2024-04-25 22:30:21.775]	INFO	Total	         2ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:30:21.775]	INFO	=========================================平均最慢 top 100===========CostTime[ 2ms ] MsgCount[ 1 ] userCount[ 253 ]
+[2024-04-25 22:30:21.775]	INFO	slow	         2ms	 100%	         2ms	         1	MSG_C2S_Equipment_Sale
+[2024-04-25 22:30:21.775]	INFO	Total	         2ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:30:21.775]	INFO	=========================================次数最多 top 100===========CostTime[ 2ms ] MsgCount[ 1 ] userCount[ 253 ]
+[2024-04-25 22:30:21.775]	INFO	count	         2ms	 100%	         2ms	         1	MSG_C2S_Equipment_Sale
+[2024-04-25 22:30:21.775]	INFO	Total	         2ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:33:21.775]	INFO	=========================================总体最热 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 254 ]
+[2024-04-25 22:33:21.775]	INFO	hot	         1ms	 100%	         1ms	         1	MSG_C2S_CompanionBook_UpgradeLv
+[2024-04-25 22:33:21.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:33:21.775]	INFO	=========================================平均最慢 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 254 ]
+[2024-04-25 22:33:21.775]	INFO	slow	         1ms	 100%	         1ms	         1	MSG_C2S_CompanionBook_UpgradeLv
+[2024-04-25 22:33:21.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:33:21.775]	INFO	=========================================次数最多 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 254 ]
+[2024-04-25 22:33:21.775]	INFO	count	         1ms	 100%	         1ms	         1	MSG_C2S_CompanionBook_UpgradeLv
+[2024-04-25 22:33:21.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:35:21.775]	INFO	=========================================总体最热 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 256 ]
+[2024-04-25 22:35:21.775]	INFO	hot	         1ms	 100%	         1ms	         1	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-25 22:35:21.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:35:21.775]	INFO	=========================================平均最慢 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 256 ]
+[2024-04-25 22:35:21.775]	INFO	slow	         1ms	 100%	         1ms	         1	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-25 22:35:21.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:35:21.775]	INFO	=========================================次数最多 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 256 ]
+[2024-04-25 22:35:21.775]	INFO	count	         1ms	 100%	         1ms	         1	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-25 22:35:21.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:41:21.775]	INFO	=========================================总体最热 top 100===========CostTime[ 11ms ] MsgCount[ 1 ] userCount[ 250 ]
+[2024-04-25 22:41:21.775]	INFO	hot	        11ms	 100%	        11ms	         1	MSG_C2S_Recruit_Roll
+[2024-04-25 22:41:21.775]	INFO	Total	        11ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:41:21.775]	INFO	=========================================平均最慢 top 100===========CostTime[ 11ms ] MsgCount[ 1 ] userCount[ 250 ]
+[2024-04-25 22:41:21.775]	INFO	slow	        11ms	 100%	        11ms	         1	MSG_C2S_Recruit_Roll
+[2024-04-25 22:41:21.775]	INFO	Total	        11ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:41:21.775]	INFO	=========================================次数最多 top 100===========CostTime[ 11ms ] MsgCount[ 1 ] userCount[ 250 ]
+[2024-04-25 22:41:21.775]	INFO	count	        11ms	 100%	        11ms	         1	MSG_C2S_Recruit_Roll
+[2024-04-25 22:41:21.775]	INFO	Total	        11ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:43:51.775]	INFO	=========================================总体最热 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 249 ]
+[2024-04-25 22:43:51.775]	INFO	hot	         1ms	 100%	         1ms	         1	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-25 22:43:51.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:43:51.775]	INFO	=========================================平均最慢 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 249 ]
+[2024-04-25 22:43:51.775]	INFO	slow	         1ms	 100%	         1ms	         1	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-25 22:43:51.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:43:51.775]	INFO	=========================================次数最多 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 249 ]
+[2024-04-25 22:43:51.775]	INFO	count	         1ms	 100%	         1ms	         1	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-25 22:43:51.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:45:21.775]	INFO	=========================================总体最热 top 100===========CostTime[ 2ms ] MsgCount[ 2 ] userCount[ 253 ]
+[2024-04-25 22:45:21.775]	INFO	hot	         2ms	 100%	         1ms	         2	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-25 22:45:21.775]	INFO	Total	         2ms	 100%	         0ms	         2	TOTAL
+[2024-04-25 22:45:21.775]	INFO	=========================================平均最慢 top 100===========CostTime[ 2ms ] MsgCount[ 2 ] userCount[ 253 ]
+[2024-04-25 22:45:21.775]	INFO	slow	         2ms	 100%	         1ms	         2	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-25 22:45:21.775]	INFO	Total	         2ms	 100%	         0ms	         2	TOTAL
+[2024-04-25 22:45:21.775]	INFO	=========================================次数最多 top 100===========CostTime[ 2ms ] MsgCount[ 2 ] userCount[ 253 ]
+[2024-04-25 22:45:21.775]	INFO	count	         2ms	 100%	         1ms	         2	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-25 22:45:21.775]	INFO	Total	         2ms	 100%	         0ms	         2	TOTAL
+[2024-04-25 22:47:51.775]	INFO	=========================================总体最热 top 100===========CostTime[ 3ms ] MsgCount[ 1 ] userCount[ 253 ]
+[2024-04-25 22:47:51.775]	INFO	hot	         3ms	 100%	         3ms	         1	MSG_C2S_Equipment_Sale
+[2024-04-25 22:47:51.775]	INFO	Total	         3ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:47:51.775]	INFO	=========================================平均最慢 top 100===========CostTime[ 3ms ] MsgCount[ 1 ] userCount[ 253 ]
+[2024-04-25 22:47:51.775]	INFO	slow	         3ms	 100%	         3ms	         1	MSG_C2S_Equipment_Sale
+[2024-04-25 22:47:51.775]	INFO	Total	         3ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:47:51.775]	INFO	=========================================次数最多 top 100===========CostTime[ 3ms ] MsgCount[ 1 ] userCount[ 253 ]
+[2024-04-25 22:47:51.775]	INFO	count	         3ms	 100%	         3ms	         1	MSG_C2S_Equipment_Sale
+[2024-04-25 22:47:51.775]	INFO	Total	         3ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:49:21.775]	INFO	=========================================总体最热 top 100===========CostTime[ 2ms ] MsgCount[ 1 ] userCount[ 249 ]
+[2024-04-25 22:49:21.775]	INFO	hot	         2ms	 100%	         2ms	         1	MSG_C2S_Equipment_Wear
+[2024-04-25 22:49:21.775]	INFO	Total	         2ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:49:21.775]	INFO	=========================================平均最慢 top 100===========CostTime[ 2ms ] MsgCount[ 1 ] userCount[ 249 ]
+[2024-04-25 22:49:21.775]	INFO	slow	         2ms	 100%	         2ms	         1	MSG_C2S_Equipment_Wear
+[2024-04-25 22:49:21.775]	INFO	Total	         2ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:49:21.775]	INFO	=========================================次数最多 top 100===========CostTime[ 2ms ] MsgCount[ 1 ] userCount[ 249 ]
+[2024-04-25 22:49:21.775]	INFO	count	         2ms	 100%	         2ms	         1	MSG_C2S_Equipment_Wear
+[2024-04-25 22:49:21.775]	INFO	Total	         2ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:57:51.775]	INFO	=========================================总体最热 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 242 ]
+[2024-04-25 22:57:51.775]	INFO	hot	         1ms	 100%	         1ms	         1	MSG_C2S_Arena_ChallengeBegin
+[2024-04-25 22:57:51.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:57:51.775]	INFO	=========================================平均最慢 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 242 ]
+[2024-04-25 22:57:51.775]	INFO	slow	         1ms	 100%	         1ms	         1	MSG_C2S_Arena_ChallengeBegin
+[2024-04-25 22:57:51.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 22:57:51.775]	INFO	=========================================次数最多 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 242 ]
+[2024-04-25 22:57:51.775]	INFO	count	         1ms	 100%	         1ms	         1	MSG_C2S_Arena_ChallengeBegin
+[2024-04-25 22:57:51.775]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL

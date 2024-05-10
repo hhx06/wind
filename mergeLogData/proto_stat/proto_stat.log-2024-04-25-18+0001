@@ -1,0 +1,39 @@
+[2024-04-25 18:02:34.603]	INFO	=========================================总体最热 top 100===========CostTime[ 5ms ] MsgCount[ 1 ] userCount[ 181 ]
+[2024-04-25 18:02:34.603]	INFO	hot	         5ms	 100%	         5ms	         1	MSG_C2S_Equipment_Wear
+[2024-04-25 18:02:34.603]	INFO	Total	         5ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 18:02:34.603]	INFO	=========================================平均最慢 top 100===========CostTime[ 5ms ] MsgCount[ 1 ] userCount[ 181 ]
+[2024-04-25 18:02:34.603]	INFO	slow	         5ms	 100%	         5ms	         1	MSG_C2S_Equipment_Wear
+[2024-04-25 18:02:34.603]	INFO	Total	         5ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 18:02:34.603]	INFO	=========================================次数最多 top 100===========CostTime[ 5ms ] MsgCount[ 1 ] userCount[ 181 ]
+[2024-04-25 18:02:34.603]	INFO	count	         5ms	 100%	         5ms	         1	MSG_C2S_Equipment_Wear
+[2024-04-25 18:02:34.603]	INFO	Total	         5ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 18:03:34.603]	INFO	=========================================总体最热 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 180 ]
+[2024-04-25 18:03:34.603]	INFO	hot	         1ms	 100%	         1ms	         1	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-25 18:03:34.603]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 18:03:34.603]	INFO	=========================================平均最慢 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 180 ]
+[2024-04-25 18:03:34.603]	INFO	slow	         1ms	 100%	         1ms	         1	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-25 18:03:34.603]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 18:03:34.603]	INFO	=========================================次数最多 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 180 ]
+[2024-04-25 18:03:34.603]	INFO	count	         1ms	 100%	         1ms	         1	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-25 18:03:34.603]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 18:08:34.603]	INFO	=========================================总体最热 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 189 ]
+[2024-04-25 18:08:34.603]	INFO	hot	         1ms	 100%	         1ms	         1	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-25 18:08:34.603]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 18:08:34.603]	INFO	=========================================平均最慢 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 189 ]
+[2024-04-25 18:08:34.603]	INFO	slow	         1ms	 100%	         1ms	         1	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-25 18:08:34.603]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 18:08:34.603]	INFO	=========================================次数最多 top 100===========CostTime[ 1ms ] MsgCount[ 1 ] userCount[ 189 ]
+[2024-04-25 18:08:34.603]	INFO	count	         1ms	 100%	         1ms	         1	MSG_C2S_MainDungeon_ChallengeBegin
+[2024-04-25 18:08:34.603]	INFO	Total	         1ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 18:10:04.603]	INFO	=========================================总体最热 top 100===========CostTime[ 11ms ] MsgCount[ 2 ] userCount[ 189 ]
+[2024-04-25 18:10:04.603]	INFO	hot	        10ms	  90%	        10ms	         1	MSG_C2S_MainCharacter_Switch
+[2024-04-25 18:10:04.603]	INFO	hot	         1ms	   9%	         1ms	         1	MSG_C2S_Tower_ChallengeBegin
+[2024-04-25 18:10:04.603]	INFO	Total	        11ms	 100%	         0ms	         2	TOTAL
+[2024-04-25 18:10:04.603]	INFO	=========================================平均最慢 top 100===========CostTime[ 11ms ] MsgCount[ 2 ] userCount[ 189 ]
+[2024-04-25 18:10:04.603]	INFO	slow	        10ms	  90%	        10ms	         1	MSG_C2S_MainCharacter_Switch
+[2024-04-25 18:10:04.603]	INFO	slow	         1ms	   9%	         1ms	         1	MSG_C2S_Tower_ChallengeBegin
+[2024-04-25 18:10:04.603]	INFO	Total	        11ms	 100%	         0ms	         2	TOTAL
+[2024-04-25 18:10:04.603]	INFO	=========================================次数最多 top 100===========CostTime[ 11ms ] MsgCount[ 2 ] userCount[ 189 ]
+[2024-04-25 18:10:04.603]	INFO	count	        10ms	  90%	        10ms	         1	MSG_C2S_MainCharacter_Switch
+[2024-04-25 18:10:04.603]	INFO	count	         1ms	   9%	         1ms	         1	MSG_C2S_Tower_ChallengeBegin
+[2024-04-25 18:10:04.603]	INFO	Total	        11ms	 100%	         0ms	         2	TOTAL

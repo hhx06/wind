@@ -1,0 +1,9 @@
+[2024-04-25 10:58:04.603]	INFO	=========================================总体最热 top 100===========CostTime[ 5ms ] MsgCount[ 1 ] userCount[ 46 ]
+[2024-04-25 10:58:04.603]	INFO	hot	         5ms	 100%	         5ms	         1	MSG_C2S_TreasureBox_Open
+[2024-04-25 10:58:04.603]	INFO	Total	         5ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 10:58:04.603]	INFO	=========================================平均最慢 top 100===========CostTime[ 5ms ] MsgCount[ 1 ] userCount[ 46 ]
+[2024-04-25 10:58:04.603]	INFO	slow	         5ms	 100%	         5ms	         1	MSG_C2S_TreasureBox_Open
+[2024-04-25 10:58:04.603]	INFO	Total	         5ms	 100%	         0ms	         1	TOTAL
+[2024-04-25 10:58:04.603]	INFO	=========================================次数最多 top 100===========CostTime[ 5ms ] MsgCount[ 1 ] userCount[ 46 ]
+[2024-04-25 10:58:04.603]	INFO	count	         5ms	 100%	         5ms	         1	MSG_C2S_TreasureBox_Open
+[2024-04-25 10:58:04.603]	INFO	Total	         5ms	 100%	         0ms	         1	TOTAL
